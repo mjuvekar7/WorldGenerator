@@ -1,0 +1,9 @@
+{
+    "id" : "WorldGenerator",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Mandar Juvekar",
+    "displayName" : "WorldGenerator",
+    "description" : "A simple world generator.",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
