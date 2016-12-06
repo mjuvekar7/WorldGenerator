@@ -39,6 +39,7 @@ public class WorldGenerator extends BaseFacetedWorldGenerator {
                 .addProvider(new MountainsProvider())
                 .addProvider(new HouseProvider())
                 .addRasterizer(new HouseRasterizer())
-                .addRasterizer(new WorldGenRasterizer());
+                .addRasterizer(new WorldGenRasterizer())
+                .addPlugins();
     }
 }
