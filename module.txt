@@ -4,6 +4,6 @@
     "author" : "Mandar Juvekar",
     "displayName" : "WorldGenerator",
     "description" : "A simple world generator.",
-    "dependencies" : [],
+    "dependencies" : [{"id": "Core", "minVersion": "1.0.0"}],
     "serverSideOnly" : false
 }
